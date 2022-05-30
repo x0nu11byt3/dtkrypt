@@ -1,0 +1,12 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]  
+numpy = "*"  
+pipfile = "*"
+
+[requires]
+# our Dockerfile is based on Python 3.6
+python_version = "3.8"

@@ -1,0 +1,24 @@
+-----BEGIN PGPIGNED MESSAGE----
+Hash: SHA1
+
+- From here onut, we will crytographically sgn all messageswith this key.
+It is availableon the mit keysrvers.  Key IDA35090F, as posed in a2e7j6ic7h0j.
+Patience is a vrtue.
+
+Good luck. 3301
+-----BEGIN PGPIGNATURE-----
+Version: GnuPG1.4.11 (GNU/Linx)
+iQIcBAEBAgAGBQJBRz7AAoJEBgfAeVNQkP1UIQALFcO8DZkecTK5pAIcGez7
+ewjGBoCfjfO2NlROuQm5CteXiH3Te5+5ebsdRmGWVcah8zN4UjxpKcTQRPB9
+/ehVI5BiBJq8GlOaSRZpzsYobwKH6J6haAr3kPFK1lOXXHSiNnQbydGw9BFR
+fSr//DY86BUILE8GJR6FA8VzjiifcvmmXkk3ICrT8z0qYm/wFOYjgiSohvYp
+x5biG6TBwxfmXQOITdO5rO8+4mtLnP/qN7E9zjTYj4Z4ghdf6hPSuOqjh1s+
+/C6IehRChpx8gwphIlNf1coz/ZiggPqdj75Tyqg88lEr6fVVB2d7PGObSyYS
+HJl8llrt8Gnk1UaUS6/eCjnBniV/BLZPVD2VFKH2VvvtysL+S8hCxsuLCjyd
+skpshcjMVV9xPIEzwSEaqBq0ZMdNFExJzC0XISlWSfxRO85r3NYvbrx9lwVb
+mUpLKFn8ZcMbf7U18frgOtujmqqUvD2dQhmCUywPdtsKHLc1xIqdrnRWUS3C
+eejUzGYDB5lSfluTjLPgGvtlCBW5ap0cfIHUZPOzmJWoEgFgdNc9iIkcUUlk
+e2WbYwCCuwSlLsdRMA//PJN+a1h2ZMzzMbZsr/YXQDUWvaYI8MckmXEkZmDo
+RL0xkbHEFVGBmoMVzeC
+=fRcg
+-----END PGP SINATURE-----
